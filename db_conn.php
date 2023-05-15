@@ -12,7 +12,7 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 
-$productID = $_GET['product_id']; 
+$productID = $_GET['pro_id']; 
 
 $sql = "SELECT quantity FROM product WHERE pro_id = $productID";
 
