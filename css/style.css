@@ -113,3 +113,27 @@ border-radius: 10px;
   .categories::-webkit-scrollbar-thumb:hover {
     background-color: #555;
   }
+  .card {
+    margin-bottom: 50px;
+    height: 500px;
+   
+    
+  }
+  
+  .card-title {
+    font-weight: bold;
+  }
+  
+  .card-text {
+    color: #888888;
+  }
+  
+  .card-text2 {
+    color: #581dd8;
+  }
+
+  .card-img-top
+  {
+    height: 350px;
+  }
+  
