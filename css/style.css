@@ -16,3 +16,26 @@ border-radius: 10px;
 border-radius: 10px;
 }
 
+.card-group{
+margin-left: 100px;
+margin-right: 100px;
+}
+.card{
+    margin-top: 15px;
+    border-radius: 20px;
+    margin: 1px;
+}
+.card-img-top {
+    width: 275px;
+    height: 183px;
+    object-fit: cover;
+}
+
+h2{
+    padding: 15px   ;
+    margin-left: 100px;
+}
+
+.col-md-3{
+    margin-top: 10px;
+}
