@@ -1,0 +1,38 @@
+/* CSS for the slider section */
+.slider {
+    margin: 20px;
+  }
+  
+  .carousel-inner {
+    border-radius: 10px;
+  }
+  
+  .carousel-item img {
+    border-radius: 10px;
+    object-fit: fill;
+    height: 70vh; /* Adjust the height as needed */
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 5%;
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: #000000; /* Customize the control icon color */
+  }
+  
+  .carousel-control-prev-icon:before,
+  .carousel-control-next-icon:before {
+    color: #000000; /* Customize the control icon arrow color */
+  }
+  
+  .visually-hidden {
+    clip: rect(0 0 0 0);
+    position: absolute;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+  }
+  
