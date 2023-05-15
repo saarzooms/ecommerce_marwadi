@@ -1,0 +1,17 @@
+body{
+    padding: 0px;
+}
+.slider { 
+justify-content: center;
+margin-top: 25px;
+margin-left: 100px;
+margin-right: 100px;
+}
+
+.carousel-inner {
+border-radius: 10px;
+}
+
+.carousel-item img {
+border-radius: 10px;
+}
