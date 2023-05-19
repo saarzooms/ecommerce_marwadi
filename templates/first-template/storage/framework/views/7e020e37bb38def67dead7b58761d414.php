@@ -1,0 +1,3 @@
+<?php echo $__env->make('front-end.layouts.header', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php echo $__env->yieldContent('main-container'); ?>
+<?php echo $__env->make('front-end.layouts.footer', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\internship\laravel\first-template\resources\views/front-end/layouts/main.blade.php ENDPATH**/ ?>
